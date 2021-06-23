@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>D3FD5EB3-41F9-402F-AA50-E0076B62979F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
+			<key>fileName</key>
+			<string>D3FD5EB3-41F9-402F-AA50-E0076B62979F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>combine_char-gftxenhokxljlfdmburqadwcmclw</string>
+			<key>timeStartedRecording</key>
+			<real>614234384.90045202</real>
+			<key>timeStoppedRecording</key>
+			<real>614234388.26654804</real>
+			<key>title</key>
+			<string>Build target combine_char</string>
+			<key>uniqueIdentifier</key>
+			<string>D3FD5EB3-41F9-402F-AA50-E0076B62979F</string>
+		</dict>
+		<key>D7F54F02-DC6F-49B4-BEAB-BD3175543A13</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
+			<key>fileName</key>
+			<string>D7F54F02-DC6F-49B4-BEAB-BD3175543A13.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>combine_char-gqrfigrkleqreqbcbfojpnovamil</string>
+			<key>timeStartedRecording</key>
+			<real>614148357.31276798</real>
+			<key>timeStoppedRecording</key>
+			<real>614148360.422737</real>
+			<key>title</key>
+			<string>Build target combine_char</string>
+			<key>uniqueIdentifier</key>
+			<string>D7F54F02-DC6F-49B4-BEAB-BD3175543A13</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>

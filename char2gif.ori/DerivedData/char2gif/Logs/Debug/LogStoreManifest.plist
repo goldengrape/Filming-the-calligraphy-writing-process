@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>0D047D38-6796-4311-B723-661E45CCF355</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0D047D38-6796-4311-B723-661E45CCF355.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>char2gif project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>char2gif</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug char2gif</string>
+			<key>timeStartedRecording</key>
+			<real>615406143.999614</real>
+			<key>timeStoppedRecording</key>
+			<real>615406154.71747994</real>
+			<key>title</key>
+			<string>Debug char2gif</string>
+			<key>uniqueIdentifier</key>
+			<string>0D047D38-6796-4311-B723-661E45CCF355</string>
+		</dict>
+		<key>11BC0AC1-7418-40BE-8956-46CE16941F20</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>11BC0AC1-7418-40BE-8956-46CE16941F20.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>char2gif project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>char2gif</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug char2gif</string>
+			<key>timeStartedRecording</key>
+			<real>615405679.44394195</real>
+			<key>timeStoppedRecording</key>
+			<real>615405725.55842102</real>
+			<key>title</key>
+			<string>Debug char2gif</string>
+			<key>uniqueIdentifier</key>
+			<string>11BC0AC1-7418-40BE-8956-46CE16941F20</string>
+		</dict>
+		<key>24C8CFED-A866-433B-9CB3-1B20D73D9677</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>24C8CFED-A866-433B-9CB3-1B20D73D9677.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>char2gif project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>char2gif</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug char2gif</string>
+			<key>timeStartedRecording</key>
+			<real>615405879.92118096</real>
+			<key>timeStoppedRecording</key>
+			<real>615405890.21039605</real>
+			<key>title</key>
+			<string>Debug char2gif</string>
+			<key>uniqueIdentifier</key>
+			<string>24C8CFED-A866-433B-9CB3-1B20D73D9677</string>
+		</dict>
+		<key>8EC466B9-2023-4DEA-BF5A-63835B0448CB</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8EC466B9-2023-4DEA-BF5A-63835B0448CB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>char2gif project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>char2gif</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug char2gif</string>
+			<key>timeStartedRecording</key>
+			<real>614233696.67044199</real>
+			<key>timeStoppedRecording</key>
+			<real>614233725.72913694</real>
+			<key>title</key>
+			<string>Debug char2gif</string>
+			<key>uniqueIdentifier</key>
+			<string>8EC466B9-2023-4DEA-BF5A-63835B0448CB</string>
+		</dict>
+		<key>92BB7611-11E4-49F8-955C-2BEF251C9BAC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>92BB7611-11E4-49F8-955C-2BEF251C9BAC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>char2gif project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>char2gif</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug char2gif</string>
+			<key>timeStartedRecording</key>
+			<real>615405646.24688005</real>
+			<key>timeStoppedRecording</key>
+			<real>615405662.66340005</real>
+			<key>title</key>
+			<string>Debug char2gif</string>
+			<key>uniqueIdentifier</key>
+			<string>92BB7611-11E4-49F8-955C-2BEF251C9BAC</string>
+		</dict>
+		<key>AD5B7ED0-7911-442B-A307-792E8C24CEFE</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>AD5B7ED0-7911-442B-A307-792E8C24CEFE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>char2gif project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>char2gif</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug char2gif</string>
+			<key>timeStartedRecording</key>
+			<real>615405728.30718696</real>
+			<key>timeStoppedRecording</key>
+			<real>615405738.90736401</real>
+			<key>title</key>
+			<string>Debug char2gif</string>
+			<key>uniqueIdentifier</key>
+			<string>AD5B7ED0-7911-442B-A307-792E8C24CEFE</string>
+		</dict>
+		<key>E0D74443-75A7-4447-A20C-608FBC5DDB64</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E0D74443-75A7-4447-A20C-608FBC5DDB64.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>char2gif project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>char2gif</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug char2gif</string>
+			<key>timeStartedRecording</key>
+			<real>615406061.70049298</real>
+			<key>timeStoppedRecording</key>
+			<real>615406070.22625899</real>
+			<key>title</key>
+			<string>Debug char2gif</string>
+			<key>uniqueIdentifier</key>
+			<string>E0D74443-75A7-4447-A20C-608FBC5DDB64</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>6E717A7B-2516-4F93-BC3D-6C79E975CC02</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6E717A7B-2516-4F93-BC3D-6C79E975CC02.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>calligraphy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>calligraphy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build calligraphy</string>
+			<key>timeStartedRecording</key>
+			<real>614454789.92453301</real>
+			<key>timeStoppedRecording</key>
+			<real>614454793.33250594</real>
+			<key>title</key>
+			<string>Build calligraphy</string>
+			<key>uniqueIdentifier</key>
+			<string>6E717A7B-2516-4F93-BC3D-6C79E975CC02</string>
+		</dict>
+		<key>8AE38699-24D0-483E-88A1-5941DACF5D77</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8AE38699-24D0-483E-88A1-5941DACF5D77.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>calligraphy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>calligraphy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build calligraphy</string>
+			<key>timeStartedRecording</key>
+			<real>614454002.35196698</real>
+			<key>timeStoppedRecording</key>
+			<real>614454005.18444502</real>
+			<key>title</key>
+			<string>Build calligraphy</string>
+			<key>uniqueIdentifier</key>
+			<string>8AE38699-24D0-483E-88A1-5941DACF5D77</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>0877E17C-6293-46F9-BED5-8F46759D9095</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0877E17C-6293-46F9-BED5-8F46759D9095.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>combine_char project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>combine_char</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build combine_char</string>
+			<key>timeStartedRecording</key>
+			<real>614196410.07385504</real>
+			<key>timeStoppedRecording</key>
+			<real>614196428.46240699</real>
+			<key>title</key>
+			<string>Build combine_char</string>
+			<key>uniqueIdentifier</key>
+			<string>0877E17C-6293-46F9-BED5-8F46759D9095</string>
+		</dict>
+		<key>221EB2A5-D3E9-4251-BF0A-1B698A8A9222</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>221EB2A5-D3E9-4251-BF0A-1B698A8A9222.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>combine_char project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>combine_char</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build combine_char</string>
+			<key>timeStartedRecording</key>
+			<real>614148357.22239804</real>
+			<key>timeStoppedRecording</key>
+			<real>614148360.54123902</real>
+			<key>title</key>
+			<string>Build combine_char</string>
+			<key>uniqueIdentifier</key>
+			<string>221EB2A5-D3E9-4251-BF0A-1B698A8A9222</string>
+		</dict>
+		<key>667E1886-4864-46C2-AA01-9775E0C69F47</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>667E1886-4864-46C2-AA01-9775E0C69F47.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>combine_char project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>combine_char</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build combine_char</string>
+			<key>timeStartedRecording</key>
+			<real>614234384.71447098</real>
+			<key>timeStoppedRecording</key>
+			<real>614234388.373523</real>
+			<key>title</key>
+			<string>Build combine_char</string>
+			<key>uniqueIdentifier</key>
+			<string>667E1886-4864-46C2-AA01-9775E0C69F47</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>480F776E-9AA3-4BA6-AB25-3E1C62928608</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
+			<key>fileName</key>
+			<string>480F776E-9AA3-4BA6-AB25-3E1C62928608.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>char2gif-bapwhqwfaedtvncuiyuuncrttuha</string>
+			<key>timeStartedRecording</key>
+			<real>614090261.07542205</real>
+			<key>timeStoppedRecording</key>
+			<real>614090263.63658094</real>
+			<key>title</key>
+			<string>Build target char2gif</string>
+			<key>uniqueIdentifier</key>
+			<string>480F776E-9AA3-4BA6-AB25-3E1C62928608</string>
+		</dict>
+		<key>744282FC-5FBF-44C1-83A2-A0ED6D9277F5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
+			<key>fileName</key>
+			<string>744282FC-5FBF-44C1-83A2-A0ED6D9277F5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>char2gif-enwvcolrbwaszbbvqghxqufgprjg</string>
+			<key>timeStartedRecording</key>
+			<real>615406604.688519</real>
+			<key>timeStoppedRecording</key>
+			<real>615406607.39414299</real>
+			<key>title</key>
+			<string>Build target char2gif</string>
+			<key>uniqueIdentifier</key>
+			<string>744282FC-5FBF-44C1-83A2-A0ED6D9277F5</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>68FA6248-44E0-4636-B6A3-3ED2732B9BCF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
+			<key>fileName</key>
+			<string>68FA6248-44E0-4636-B6A3-3ED2732B9BCF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>calligraphy-akadyqctygiouifcyguownqflmss</string>
+			<key>timeStartedRecording</key>
+			<real>614075291.148628</real>
+			<key>timeStoppedRecording</key>
+			<real>614075295.13446498</real>
+			<key>title</key>
+			<string>Build target calligraphy</string>
+			<key>uniqueIdentifier</key>
+			<string>68FA6248-44E0-4636-B6A3-3ED2732B9BCF</string>
+		</dict>
+		<key>AAA04224-0155-4359-8E33-6765B29F339B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
+			<key>fileName</key>
+			<string>AAA04224-0155-4359-8E33-6765B29F339B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>calligraphy-bmjyckhrkcrhboaqjxmpnngayviw</string>
+			<key>timeStartedRecording</key>
+			<real>614454790.02124798</real>
+			<key>timeStoppedRecording</key>
+			<real>614454793.19980597</real>
+			<key>title</key>
+			<string>Build target calligraphy</string>
+			<key>uniqueIdentifier</key>
+			<string>AAA04224-0155-4359-8E33-6765B29F339B</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>
